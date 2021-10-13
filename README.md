@@ -7,43 +7,6 @@ Here is some sample output from my game.
 __ ____ ___________ 
 
  you have 10 guesses left
-guess a letter> W
-your guess was correct
-w_ ____ ___________ 
-
- you have 10 guesses left
-guess a letter> e
-your guess was correct
-we ___e ___________ 
-
- you have 10 guesses left
-guess a letter> m
-your guess was correct
-we ___e ______mm___ 
-
- you have 10 guesses left
-guess a letter> ^CTraceback (most recent call last):
-  File "/home/eulerthedestroyer/coding/hangman/main.py", line 46, in <module>
-    main()
-  File "/home/eulerthedestroyer/coding/hangman/main.py", line 22, in main
-    userGuess = input("guess a letter> ").lower()
-KeyboardInterrupt
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ ^C
-eulerthedestroyer@penguin:~/coding/hangman$ /usr/bin/python3 /home/eulerthedestroyer/coding/hangman/main.py
-__ ____ ___________ 
-
- you have 10 guesses left
 guess a letter> g
 your guess was correct
 __ ____ ___g______g 
